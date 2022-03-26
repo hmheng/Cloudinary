@@ -1,0 +1,5 @@
+/bin
+/obj
+/.vscode
+appsettings.Development.json
+ClientApp/src/config/config.js
